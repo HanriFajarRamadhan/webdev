@@ -1,0 +1,125 @@
+/* Reset some default browser styles */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style for the dark box */
+.dark-box {
+    background-color: #0516AC;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    width: 100px; 
+    height: 100px;
+    display: inline-block;
+    position: relative; 
+}
+
+.dark-box h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: black;
+}
+
+
+.dark-box p {
+    font-size: 16px;
+}
+
+.rectangle {
+    width: 500px; 
+    height: 70px; 
+    background-color: black;
+    color: white;
+    position: absolute;
+    left: 140px;
+    top: 0;
+}
+
+.coklat {
+    width: 250px; 
+    height: 70px; 
+    background-color: brown;
+    color: white;
+    position: absolute;
+    left: 140px;
+    top: 70px;
+}
+
+.kuning {
+    width: 140px; 
+    height: 70px; 
+    background-color: yellow;
+    color: white;
+    position: absolute;
+    top: 140px;
+}
+
+.merah {
+    width: 140px; 
+    height: 70px; 
+    background-color: red;
+    color: white;
+    position: absolute;
+    top: 210px;
+}
+
+.hijau {
+    width: 140px; 
+    height: 70px; 
+    background-color: green;
+    color: white;
+    position: absolute;
+    top: 280px;
+}
+
+.ungu {
+    width: 250px; 
+    height: 140px; 
+    background-color: purple;
+    color: white;
+    position: absolute;
+    left: 140px;
+    top: 140px;
+}
+
+.orange {
+    width: 250px; 
+    height: 70px; 
+    background-color: orange;
+    color: white;
+    position: absolute;
+    left: 140px;
+    top: 280px;
+}
+
+.pink {
+    width: 130px; 
+    height: 35px; 
+    background-color: pink;
+    color: white;
+    position: absolute;
+    left: 510px;
+    top: 70px;
+}
+
+.biru {
+    width: 130px; 
+    height: 110px; 
+    background-color: blue;
+    color: white;
+    position: absolute;
+    left: 510px;
+    top: 100px;
+}
+
+.abu {
+    width: 250px; 
+    height: 140px; 
+    background-color: gray;
+    color: white;
+    position: absolute;
+    left: 390px;
+    top: 210px;
+}
