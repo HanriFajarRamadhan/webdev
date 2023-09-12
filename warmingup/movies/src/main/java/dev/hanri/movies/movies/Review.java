@@ -1,4 +1,5 @@
-package dev.hanri.movies;
+package dev.hanri.movies.movies;
+
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

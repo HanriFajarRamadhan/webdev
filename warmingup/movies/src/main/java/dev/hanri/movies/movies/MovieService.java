@@ -1,4 +1,4 @@
-package dev.hanri.movies;
+package dev.hanri.movies.movies;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

@@ -1,4 +1,5 @@
-package dev.hanri.movies;
+package dev.hanri.movies.movies;
+
 
 import org.bson.types.ObjectId;
 import org.springframework.data.mongodb.repository.MongoRepository;
